@@ -10,15 +10,15 @@ const musicData = [
   {
     backgroundImage: "./assets/images/poster-1.jpg",
     posterUrl: "./assets/images/poster-1.jpg",
-    title: "爱",
+    title: "Apple",
     album: "定边七中",
     year: 2024,
     artist: "定边七中 x Apple",
     musicPath: "http://music.163.com/song/media/outer/url?id=2039257159",
   },
   {
-    backgroundImage: "./assets/images/poster-2.jpg",
-    posterUrl: "./assets/images/poster-2.jpg",
+    backgroundImage: "https://p2.music.126.net/hS32LdFm3kPjnvU1s-ax2w==/109951168234533424.jpg",
+    posterUrl: "https://p2.music.126.net/hS32LdFm3kPjnvU1s-ax2w==/109951168234533424.jpg",
     title: "LOVE",
     album: " APPLE ",
     year: 2024,
