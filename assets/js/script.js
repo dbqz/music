@@ -10,11 +10,11 @@ const musicData = [
   {
     backgroundImage: "./assets/images/poster-1.jpg",
     posterUrl: "./assets/images/poster-1.jpg",
-    title: "Happy Moments (Master)",
-    album: "No Spirit",
-    year: 2022,
+    title: "爱",
+    album: "定边七中",
+    year: 2024,
     artist: "No Spirit x Tonion",
-    musicPath: "./assets/music/music-1.mp3",
+    musicPath: "http://music.163.com/song/media/outer/url?id=2039257159",
   },
   {
     backgroundImage: "./assets/images/poster-2.jpg",
