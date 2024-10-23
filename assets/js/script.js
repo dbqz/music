@@ -44,8 +44,8 @@ const musicData = [
     musicPath: "http://music.163.com/song/media/outer/url?id=2163579652",
   },
   {
-    backgroundImage: "https://p1.music.126.net/ddIZZqUl5YjIkRsfSxm9vQ==/109951168034385721.jpg?imageView&thumbnail=360y360&quality=75&tostatic=0",
-    posterUrl: "https://p1.music.126.net/ddIZZqUl5YjIkRsfSxm9vQ==/109951168034385721.jpg?imageView&thumbnail=360y360&quality=75&tostatic=0",
+    backgroundImage: "https://p1.music.126.net/ddIZZqUl5YjIkRsfSxm9vQ==/109951168034385721.jpg",
+    posterUrl: "https://p1.music.126.net/ddIZZqUl5YjIkRsfSxm9vQ==/109951168034385721.jpg",
     title: "心做",
     album: "Apple",
     year: 2024,
