@@ -8,9 +8,9 @@
 
 const musicData = [
   {
-    backgroundImage: "./assets/images/poster-1.jpg",
+    backgroundImage: "http://p2.music.126.net/maYQ76Nl9n7tjRVWtx1czA==/109951168743138815.jpg",
     posterUrl: "./assets/images/poster-1.jpg",
-    title: "Apple",
+    title: "离开没有预告",
     album: "定边七中",
     year: 2024,
     artist: "定边七中 x Apple",
