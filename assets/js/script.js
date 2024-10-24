@@ -52,6 +52,15 @@ const musicData = [
     artist: "网易云音乐",
     musicPath: "http://music.163.com/song/media/outer/url?id=2005190306",
   },
+  {
+    backgroundImage: "https://p2.music.126.net/hS32LdFm3kPjnvU1s-ax2w==/109951168234533424.jpg",
+    posterUrl: "https://p2.music.126.net/hS32LdFm3kPjnvU1s-ax2w==/109951168234533424.jpg",
+    title: "心要让你听见爱要让你看见",
+    album: " 网易云音乐 ",
+    year: 2024,
+    artist: "网易云音乐 x Apple",
+    musicPath: "http://music.163.com/song/media/outer/url?id=1956484337",
+  },
 ];
 
 
