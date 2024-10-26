@@ -18,7 +18,7 @@ const musicData = [
   },
    {
     backgroundImage: "https://s2.loli.net/2024/10/19/fVIwq9iQP6k1r7u.jpg",
-    posterUrl: "https://s2.loli.net/2024/10/26/t7jgqJCBKmoPGa8.jpg",
+    posterUrl: "https://pic.imgdb.cn/item/671cb412d29ded1a8c121f2c.png",
     title: "听力教材第5单元听力",
     album: "2025届6班",
     year: 2025,
