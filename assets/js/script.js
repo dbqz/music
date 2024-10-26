@@ -68,7 +68,7 @@ const musicData = [
     album: "2025届6班",
     year: 2024,
     artist: "2025 x 毕业🎓",
-    musicPath: "/music/2025by.mp3",
+    musicPath: "/assets/music/2025by.mp3",
   },
 ];
 
