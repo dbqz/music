@@ -7,7 +7,16 @@
  */
 
 const musicData = [
-  {
+ {
+    backgroundImage: "https://p2.music.126.net/hS32LdFm3kPjnvU1s-ax2w==/109951168234533424.jpg",
+    posterUrl: "https://p2.music.126.net/hS32LdFm3kPjnvU1s-ax2w==/109951168234533424.jpg",
+    title: "LOVE",
+    album: " APPLE ",
+    year: 2024,
+    artist: "网易云音乐 x Apple",
+    musicPath: "http://music.163.com/song/media/outer/url?id=2004668241",
+  },
+   {
     backgroundImage: "https://s2.loli.net/2024/10/19/fVIwq9iQP6k1r7u.jpg",
     posterUrl: "https://s2.loli.net/2024/10/26/t7jgqJCBKmoPGa8.jpg",
     title: "听力教材第5单元听力",
@@ -24,15 +33,6 @@ const musicData = [
     year: 2024,
     artist: "定边七中 x Apple",
     musicPath: "http://music.163.com/song/media/outer/url?id=2039257159",
-  },
-  {
-    backgroundImage: "https://p2.music.126.net/hS32LdFm3kPjnvU1s-ax2w==/109951168234533424.jpg",
-    posterUrl: "https://p2.music.126.net/hS32LdFm3kPjnvU1s-ax2w==/109951168234533424.jpg",
-    title: "LOVE",
-    album: " APPLE ",
-    year: 2024,
-    artist: "网易云音乐 x Apple",
-    musicPath: "http://music.163.com/song/media/outer/url?id=2004668241",
   },
   {
     backgroundImage: "https://p2.music.126.net/rBNJ4tyBHGeFIDz20l1Lgg==/109951167809598379.jpg",
