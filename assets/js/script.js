@@ -61,6 +61,15 @@ const musicData = [
     artist: "网易云音乐 x Apple",
     musicPath: "http://music.163.com/song/media/outer/url?id=1956484337",
   },
+  {
+    backgroundImage: "http://p2.music.126.net/maYQ76Nl9n7tjRVWtx1czA==/109951168743138815.jpg",
+    posterUrl: "http://p2.music.126.net/maYQ76Nl9n7tjRVWtx1czA==/109951168743138815.jpg",
+    title: "听力教材第5单元听力",
+    album: "2025届6班",
+    year: 2024,
+    artist: "2025 x 毕业🎓",
+    musicPath: "/music/2025by.mp3",
+  },
 ];
 
 
