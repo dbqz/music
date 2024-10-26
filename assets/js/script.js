@@ -62,7 +62,7 @@ const musicData = [
     musicPath: "http://music.163.com/song/media/outer/url?id=1956484337",
   },
   {
-    backgroundImage: "https://s2.loli.net/2024/10/26/t7jgqJCBKmoPGa8.jpg.jpg",
+    backgroundImage: "https://s2.loli.net/2024/10/26/t7jgqJCBKmoPGa8.jpg",
     posterUrl: "https://s2.loli.net/2024/10/26/t7jgqJCBKmoPGa8.jpg",
     title: "听力教材第5单元听力",
     album: "2025届6班",
